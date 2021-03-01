@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class RandomNoseSpriteSelector : MonoBehaviour
 {
-    [SerializeField] Sprite[] eyes_SpritesArray;
+    [SerializeField] Sprite[] nose_SpritesArray;
     void Start()
     {
         SelectNewNoseSprite();
@@ -13,6 +13,6 @@ public class RandomNoseSpriteSelector : MonoBehaviour
     // Update is called once per frame
     public void SelectNewNoseSprite()
     {
-        GetComponent<SpriteRenderer>().sprite = eyes_SpritesArray[Random.Range(0, eyes_SpritesArray.Length)];
+        GetComponent<SpriteRenderer>().sprite = nose_SpritesArray[Random.Range(0, nose_SpritesArray.Length)];
     }
 }

@@ -94,4 +94,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd33799329209b14b83ba59852e12611, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lips_SpritesArray: []
+  lips_SpritesArray:
+  - {fileID: 21300000, guid: 49afcc053441747419aacc795dc65e1f, type: 3}
+  - {fileID: 21300000, guid: 7656582fc1b49b341a028c2d07844e8e, type: 3}
+  - {fileID: 21300000, guid: 0f26b7b7c467e06498b3d0d101414eac, type: 3}
+  - {fileID: 21300000, guid: 1c5b8cb708e855b4da37711ada4559d8, type: 3}
+  - {fileID: 21300000, guid: bd16f4c51d72c25488804dbada89d7f7, type: 3}
+  - {fileID: 21300000, guid: 4fea3919187fd034d964c7b290236588, type: 3}
+  - {fileID: 21300000, guid: b08dc0d93ae734a4297899838e6da128, type: 3}
+  - {fileID: 21300000, guid: d3e55e1693b7b124dad78a1c14ec5026, type: 3}
+  - {fileID: 21300000, guid: d861ab44281de654ea8170c4c7990c1e, type: 3}
+  - {fileID: 21300000, guid: cbb3abfc624bf464dbc469797b20b7e7, type: 3}

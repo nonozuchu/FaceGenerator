@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 9206992779431802068}
   - component: {fileID: 5442996890796359080}
   m_Layer: 0
-  m_Name: M Face Base (3)
+  m_Name: M Face Base (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -86,7 +86,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: fa6ac1fa3989e8f43b3c94cc54b131bd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a5602e76f6d1e61438f33aece8ea1cc3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -117,7 +117,7 @@ PrefabInstance:
     - target: {fileID: 1280532523828531834, guid: e30f5a2e0e161154fa73f573b5437ca0,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.25
+      value: -3.7
       objectReference: {fileID: 0}
     - target: {fileID: 1280532523828531834, guid: e30f5a2e0e161154fa73f573b5437ca0,
         type: 3}
@@ -272,7 +272,7 @@ PrefabInstance:
     - target: {fileID: 3423326209238002557, guid: 2120e183507c9434a9bc9a1830bc736d,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2
+      value: -1.5
       objectReference: {fileID: 0}
     - target: {fileID: 3423326209238002557, guid: 2120e183507c9434a9bc9a1830bc736d,
         type: 3}

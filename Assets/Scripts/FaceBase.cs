@@ -4,15 +4,8 @@ using UnityEngine;
 
 public class FaceBase : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public void DestroyGameObject()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        Destroy(gameObject);
     }
 }

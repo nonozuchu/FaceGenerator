@@ -15,4 +15,8 @@ public class FaceSelector : MonoBehaviour
         var selected_Face = face_GameObjectsArray[Random.Range(0, face_GameObjectsArray.Length)];
         Instantiate(selected_Face);
     }
+    public void DestroyFaceBase()
+    {
+        FindObjectOfType<FaceBase>().DestroyGameObject();
+    }
 }
